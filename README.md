@@ -115,5 +115,5 @@ void PrintArray(string[] array)
 
 5. Скриншот коммитов для подтверждения.
 
->![Screenshot of commits](Screenshot_1.png)
+>![Screenshot of commits](Screenshot.png)
 git config --global user.email "you@example.com"
